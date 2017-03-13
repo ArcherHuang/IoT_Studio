@@ -2,7 +2,8 @@
 
 ## 【 Overview 】
 * 實作架構 
-   
+[Imgur](http://i.imgur.com/iytgFA8.png)
+
 ## 【 File 】
       
 | 編號 | 資料夾 |  檔案名稱 | 說明  |
