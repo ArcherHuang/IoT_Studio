@@ -7,7 +7,10 @@
       
 | 編號 | 資料夾 |  檔案名稱 | 說明  |
 |---|---|---|---|
-|1| /  |   |   |
+|1| /Arduino  |  |   |
+|2| /Python  | sensingDataToAllIoTCloudHTTPSend.py |   |
+|3| /Python  | sensingDataToAllIoTCloudWebSocketReceive.py |   |
+|4| /Python  | sensingDataToAllIoTCloudWebSocketSend.py |   |
 
 ## 【 Board and Sensor 】
 
