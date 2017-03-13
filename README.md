@@ -17,6 +17,7 @@
 * [LinkIt Smart 7688 Duo](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html)
 * [Arduino Breakout for LinkIt Smart 7688 Duo](https://www.seeedstudio.com/Arduino-Breakout-for-LinkIt-Smart-7688-Duo-p-2576.html)
 * [Grove - Temperature & Humidity Sensor](https://www.seeedstudio.com/Grove-Temp%26Humi-Sensor-p-745.html)
+* [Raspberry Pi 3 Model B](https://www.seeedstudio.com/Raspberry-Pi-3-Model-B-p-2625.html)
 
 ## 【 Reference 】
 
