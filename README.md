@@ -16,7 +16,7 @@
 
 ## 【 Board and Sensor 】
 
-* [LinkIt Smart 7688 Duo](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html)
+* [LinkIt Smart 7688 Duo](http://www.alliotcloud.com/market/singl.php?PID=119)
 * [Arduino Breakout for LinkIt Smart 7688 Duo](https://www.seeedstudio.com/Arduino-Breakout-for-LinkIt-Smart-7688-Duo-p-2576.html)
 * [Grove - Temperature & Humidity Sensor](http://www.alliotcloud.com/market/singl.php?PID=56)
 * [Raspberry Pi 3 Model B](http://www.alliotcloud.com/market/singl.php?PID=40)
