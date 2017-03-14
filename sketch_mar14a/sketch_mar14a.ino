@@ -17,17 +17,11 @@ void loop() {
   // put your main code here, to run repeatedly:
   float h = dht.readHumidity();
   float t = dht.readTemperature();
-      
-  Serial.print("DHT-Humidity: "); 
-  Serial.print(h);
-  Serial.print(" %\t");
-  Serial.print("DHT-Temperature: "); 
-  Serial.print(t);
-  Serial.println(" *C\t");
-
+     
   // Bridge
   Bridge.put("Humidity", String(h));
   Bridge.put("Temperature", String(t));
         
   delay(1000); //每秒回傳一次資料
 }
+
