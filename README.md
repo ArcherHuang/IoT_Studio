@@ -4,7 +4,6 @@
 * 實作架構 
 
 ![Imgur](http://i.imgur.com/ySJSDhD.png)
-![Imgur](http://i.imgur.com/kYJBl7b.png)
 
 ## 【 File 】
       
