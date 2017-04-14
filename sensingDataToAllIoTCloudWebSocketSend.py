@@ -45,7 +45,7 @@ while True:
 	
 	t = time.time();
 	date = datetime.datetime.fromtimestamp(t).strftime('%Y%m%d%H%M%S')
-	vals = "{\"date\" : \"" + date + "\", \"temperature\":" + t0 + "\", \"humidity\":" + h0 + "}"
+	vals = "{\"date\" : \"" + date + "\", \"temperature\":" + t0 + ", \"humidity\":" + h0 + "}"
 	print vals;
 	ws.send(vals)
 	time.sleep(1)
